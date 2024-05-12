@@ -1,0 +1,8 @@
+env
+build
+data
+dist
+qasystem.egg-info
+testing_bedrock
+
+secrets.txt
